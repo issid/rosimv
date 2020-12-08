@@ -1,4 +1,5 @@
 # rosim
+Ragnarok Online - skill and stats simulator
 
 ## Project setup
 ```
